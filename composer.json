@@ -1,0 +1,14 @@
+{
+    "name": "hds/test_package",
+    "description": "my test package",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wutaya",
+            "email": "wu1940@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
